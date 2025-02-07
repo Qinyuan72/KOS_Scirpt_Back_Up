@@ -1,0 +1,48 @@
+These are all the things that I can currently USE GETFIELD AND SETFIELD ON IN ModuleRoboticServoRotor:
+LIST of 10 items:
+[0] = 
+  ["value"] = "(settable) rpm limit, is Single"
+[1] = 
+  ["value"] = "(settable) current rpm, is Single"
+[2] = 
+  ["value"] = "(settable) rotation direction, is Boolean"
+[3] = 
+  ["value"] = "(settable) invert direction, is Boolean"
+[4] = 
+  ["value"] = "(settable) brake, is Single"
+[5] = 
+  ["value"] = "(settable) locked, is Boolean"
+[6] = 
+  ["value"] = "(settable) motor, is Boolean"
+[7] = 
+  ["value"] = "(settable) torque limit(%), is Single"
+[8] = 
+  ["value"] = "(settable) motor, is String"
+[9] = 
+  ["value"] = "(settable) on power loss, is Boolean"
+These are all the things that I can currently USE DOEVENT ON IN ModuleRoboticServoRotor:
+LIST of 1 items:
+[0] = 
+  ["value"] = "(callable) reset to build rpm, is KSPEvent"
+These are all the things that I can currently USE DOACTION ON IN ModuleRoboticServoRotor:
+LIST of 10 items:
+[0] = 
+  ["value"] = "(callable) brake, is KSPAction"
+[1] = 
+  ["value"] = "(callable) toggle motor power, is KSPAction"
+[2] = 
+  ["value"] = "(callable) toggle motor direction, is KSPAction"
+[3] = 
+  ["value"] = "(callable) toggle locked, is KSPAction"
+[4] = 
+  ["value"] = "(callable) engage servo lock, is KSPAction"
+[5] = 
+  ["value"] = "(callable) disengage servo lock, is KSPAction"
+[6] = 
+  ["value"] = "(callable) toggle motor engaged, is KSPAction"
+[7] = 
+  ["value"] = "(callable) engage motor drive, is KSPAction"
+[8] = 
+  ["value"] = "(callable) disengage motor drive, is KSPAction"
+[9] = 
+  ["value"] = "(callable) reset to build rpm, is KSPAction"
